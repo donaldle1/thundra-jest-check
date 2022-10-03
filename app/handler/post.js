@@ -209,6 +209,4 @@ class BlogPostHandler extends BaseAutoBindedClass {
 }
 
 
-p
-
 module.exports = BlogPostHandler;

@@ -3,5 +3,3 @@
     server: require('./server'),
     jwtOptions: require('./jwt-options')
 };
-
-const endpoint="New end point";
