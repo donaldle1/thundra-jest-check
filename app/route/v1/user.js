@@ -9,6 +9,3 @@ router.get('/:id', userController.get);
 router.post('/', userController.create);
 
 module.exports = router;
-
-
-const endpoint="New end point";

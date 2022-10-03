@@ -4,4 +4,3 @@
     jwtOptions: require('./jwt-options')
 };
 
-const endpoint="New end point";
